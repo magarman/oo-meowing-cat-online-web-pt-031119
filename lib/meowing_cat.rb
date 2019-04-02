@@ -8,4 +8,7 @@ class Cat
   def meow=(meow)
     @meow
   end
+  
+  puts @meow
+  
 end 
