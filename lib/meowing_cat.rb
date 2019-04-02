@@ -9,6 +9,6 @@ class Cat
     @meow
   end
   
-  puts @meow
+  puts "@meow"
   
 end 
